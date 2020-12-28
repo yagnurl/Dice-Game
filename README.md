@@ -1,4 +1,5 @@
 # Dice-Game
+[https://dice-game-y.netlify.app/](https://dice-game-y.netlify.app/ "https://dice-game-y.netlify.app/")
 
 ###### Dice Game is a basic game that has following rules:
 - The game has 2 players, playing in rounds.
