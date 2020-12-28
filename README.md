@@ -11,7 +11,7 @@ This project is created with HTML, CSS and Javascript.
 
 ------------
 
-![preview](https://github.com/yagnurl/Dice-Game/blob/master/dice-game/diceGame-preview.png "preview")
+![preview](https://github.com/yagnurl/dice-game/blob/main/diceGame-preview.png "preview")
 
 ------------
 *owner of the design is Jonas Schmedtmann*
