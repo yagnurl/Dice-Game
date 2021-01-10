@@ -15,4 +15,4 @@ This project is created with HTML, CSS and Javascript.
 ![preview](https://github.com/yagnurl/dice-game/blob/main/diceGame-preview.png "preview")
 
 ------------
-*owner of the design is Jonas Schmedtmann*
+*This project is built as an exercise in a course named "The Complete JavaScript Course 2021: From Zero to Expert!" on Udemy by Jonas Schmedtmann*
